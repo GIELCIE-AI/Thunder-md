@@ -3,7 +3,7 @@
 
 # ⚡ THUNDER-MD ⚡
 
-![Thunder-MD Banner](https://imgur.com/a/3y2sUJf)
+(https://imgur.com/a/3y2sUJf)
 
 **Glowing WhatsApp Bot**  
 **One Piece Thunder Edition** 🌩🔥
