@@ -1,0 +1,16 @@
+{
+  "name": "thunder-md",
+  "version": "1.0.0",
+  "description": "⚡ Thunder-MD -WhatsApp Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^9.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
