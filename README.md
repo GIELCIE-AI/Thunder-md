@@ -3,7 +3,8 @@
 <p align="center">
 ⚡ THUNDER-MD ⚡
 
-  <p> <img
+  <p> <img scr="https://imgur.com/a/Psmm6Jf.peg"></img> <with="100"> <length="100">
+  </p>
   
 ## ⭐ SUPPORT THE PROJECT
 
